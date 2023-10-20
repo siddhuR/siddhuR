@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@routhusiddhartha](https://medium.com/@routhusiddhartha)
 
-- 💬 Ask me about **Tableau Prep, Golang, Spreadsheet Language**
+- 💬 Ask me about **Tableau Prep, Tableau Desktop, R Programming Language, Predictive Analytics, Big Data, Hadoop, Golang, Spreadsheet Language, MERN stack**
 
 - 📫 How to reach me **routhusiddhartha@gmail.com**
 
