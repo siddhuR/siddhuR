@@ -7,9 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/siddhu_routhu" target="blank"><img src="https://img.shields.io/twitter/follow/siddhu_routhu?logo=twitter&style=for-the-badge" alt="siddhu_routhu" /></a> </p>
 
-- 🔭 I’m currently working on **Golang Backend Project**
+- 🔭 I’m currently working on **MERN stack Project**
 
-- 🌱 I’m currently learning **Golang, REST API**
+- 🌱 I’m currently learning **Hadoop Big Data, Also Predictive Analytics using R language**
+- ✍️ Externally working on **NodeJS, MongoDB, Express, REST API**
+
+- 🧚 I’m a passionate **Golang Developer**
 
 - 👨‍💻 All of my projects are available at [https://siddhur.github.io/-MyPortfolio_html_css/](https://siddhur.github.io/-MyPortfolio_html_css/)
 
