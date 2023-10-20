@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/siddhu_routhu" target="blank"><img src="https://img.shields.io/twitter/follow/siddhu_routhu?logo=twitter&style=for-the-badge" alt="siddhu_routhu" /></a> </p>
 
-- 🔭 I’m currently working on **MERN stack Project**
+- 🔭 I’m currently working on both **Big Data & MERN stack Project**
 
 - 🌱 I’m currently learning **Hadoop Big Data, Also Predictive Analytics using R language**
 - ✍️ Externally working on **NodeJS, MongoDB, Express, REST API**
