@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Hadoop Big Data, Also Predictive Analytics using R language**
 - ✍️ Externally working on **NodeJS, MongoDB, Express, REST API**
 
-- 🧚 I’m a passionate **Golang Developer**
+- 🧚 I’m a passionate **Data Enthusiast**
 
 - 👨‍💻 All of my projects are available at [https://siddhur.github.io/-MyPortfolio_html_css/](https://siddhur.github.io/-MyPortfolio_html_css/)
 
