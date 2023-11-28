@@ -1,4 +1,4 @@
-![MasterHead](https://ok-interservice.com/media/images/datascience.width-1920.jpg)
+![MasterHead]([https://ok-interservice.com/media/images/datascience.width-1920.jpg](https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif))
 <h1 align="center">Hi 👋, I'm Routhu Siddhartha</h1>
 <h3 align="center">A passionate Data Enthusiast and Backend(GOlang) Developer from INDIA</h3>
 <img align="right" alt="Coding" width="400" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
