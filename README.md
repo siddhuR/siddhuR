@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on both **Big Data & MERN stack Project**
 
-- 🌱 I’m currently learning **Hadoop Big Data, Also Predictive Analytics using R language**
+- 🌱 I’m currently learning **Hadoop Big Data, PowerBI, Also Predictive Analytics using R language**
 - ✍️ Externally working on **NodeJS, MongoDB, Express, REST API**
 
 - 🧚 I’m a passionate **Data Enthusiast**
